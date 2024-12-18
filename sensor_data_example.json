@@ -1,0 +1,37 @@
+[
+    {
+        "epoch": 1733714556,
+        "depth(m)": 2.71,
+        "temp(c)": 24.4,
+        "oxygen value": 2.32,
+        "conductivity value": 0.0
+    },
+    {
+        "epoch": 1733714563,
+        "depth(m)": 3.32,
+        "temp(c)": 24.4,
+        "oxygen value": 2.32,
+        "conductivity value": 0.0
+    },
+    {
+        "epoch": 1733714570,
+        "depth(m)": 2.95,
+        "temp(c)": 24.39,
+        "oxygen value": 2.32,
+        "conductivity value": 0.0
+    },
+    {
+        "epoch": 1733714577,
+        "depth(m)": 1.68,
+        "temp(c)": 24.39,
+        "oxygen value": 2.31,
+        "conductivity value": 0.0
+    },
+    {
+        "epoch": 1733714584,
+        "depth(m)": 1.02,
+        "temp(c)": 24.38,
+        "oxygen value": 2.31,
+        "conductivity value": 0.0
+    }
+]
